@@ -1,4 +1,3 @@
-### Hi there 👋
 <h1 align="center">Hi 👋, I'm Derek</h1>
 <h3 align="center">Im a Developer for Disney.</h3>
 
